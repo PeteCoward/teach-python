@@ -7,6 +7,7 @@ A python 3 project to walk through some basic python usage themed around really 
 ### Requirements
   - Python 3
   - PyTest
+
 ### Lesson 1 - Caesar Cipher
 Implement stubbed functions to encode and decode simple caesar cipher ( all uppercase english alphabet, non letter characters remain unchanged )
 Tests exist to guide students towards completion
